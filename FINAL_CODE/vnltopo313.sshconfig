@@ -1,0 +1,48 @@
+Host gateway
+  User topo313
+  HostName postino
+  Port 22001
+  IdentityFile vnltopo313.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host vrhost
+  User topo313
+  HostName postino
+  Port 22002
+  IdentityFile vnltopo313.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host server1
+  User topo313
+  HostName postino
+  Port 22003
+  IdentityFile vnltopo313.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host server2
+  User topo313
+  HostName postino
+  Port 22004
+  IdentityFile vnltopo313.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host server3
+  User topo313
+  HostName postino
+  Port 22005
+  IdentityFile vnltopo313.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host server4
+  User topo313
+  HostName postino
+  Port 22006
+  IdentityFile vnltopo313.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
